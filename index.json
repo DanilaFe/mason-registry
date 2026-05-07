@@ -31,6 +31,20 @@
       "type": "library"
     }
   ],
+  "DanielCVL": [
+    {
+      "version": "0.2.0",
+      "createdDate": "2026-04-23T20:19:13Z",
+      "chplVersion": "2.8.0",
+      "authors": [
+        "Jade Abraham"
+      ],
+      "license": "Apache-2.0",
+      "source": "git@github.com:jabraham17/CVL.git",
+      "copyrightYear": "2025",
+      "type": "library"
+    }
+  ],
   "DataStructures": [
     {
       "version": "0.1.0",
